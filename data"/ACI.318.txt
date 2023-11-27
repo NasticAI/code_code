@@ -1,0 +1,344 @@
+HAPTER 1—GENERAL
+1.1—Scope of ACI 318
+1.1.1 This chapter addresses (a) through (h):
+(a) General requirements of this Code
+(b) Purpose of this Code
+(c) Applicability of this Code
+(d) Interpretation of this Code
+(e) Definition and role of the building official and the 
+licensed design professional
+(f) Construction documents
+(g) Testing and inspection
+(h) Approval of special systems of design, construction, or 
+alternative construction materials
+1.2—General
+1.2.1 ACI 318, “Building Code Requirements for Structural Concrete,” is hereafter referred to as “this Code.”
+1.2.2 In this Code, the general building code refers to the 
+building code adopted in a jurisdiction. When adopted, this 
+Code forms part of the general building code.
+1.2.3 The official version of this Code is the English 
+language version, using inch-pound units, published by the 
+American Concrete Institute.
+1.2.4 In case of conflict between the official version of this 
+Code and other versions of this Code, the official version 
+governs.
+1.2.5 This Code provides minimum requirements for the 
+materials, design, construction, and strength evaluation of 
+structural concrete members and systems in any structure 
+designed and constructed under the requirements of the 
+general building code.
+1.2.6 Modifications to this Code that are adopted by a 
+particular jurisdiction are part of the laws of that jurisdiction, but are not a part of this Code.
+1.2.7 If no general building code is adopted, this Code 
+provides minimum requirements for the materials, design, 
+construction, and strength evaluation of members and 
+systems in any structure within the scope of this Code.
+R1—GENERAL
+R1.1—Scope of ACI 318
+R1.1.1 This Code includes provisions for the design 
+of concrete used for structural purposes, including plain 
+concrete; concrete containing nonprestressed reinforcement, 
+prestressed reinforcement, or both; composite columns with 
+structural steel shapes, pipes, or tubing; and anchoring to 
+concrete.
+This Code is substantially reorganized from the previous 
+version, ACI 318-11. This chapter includes a number of 
+provisions that explain where this Code applies and how it 
+is to be interpreted.
+R1.2—General
+R1.2.2 The American Concrete Institute recommends that 
+this Code be adopted in its entirety.
+R1.2.3 Committee 318 develops the Code in English, 
+using inch-pound units. Based on that version, Committee 
+318 approved three other versions:
+(a) In English using SI units (ACI 318M)
+(b) In Spanish using SI units (ACI 318S)
+(c) In Spanish using inch-pound units (ACI 318SUS).
+Jurisdictions may adopt ACI 318, ACI 318M, ACI 318S, 
+or ACI 318SUS.
+R1.2.5 This Code provides minimum requirements and 
+exceeding these minimum requirements is not a violation of 
+the Code.
+The licensed design professional may specify project 
+requirements that exceed the minimum requirements of this 
+Code.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CHAPTER 1—GENERAL 9
+CODE COMMENTARY
+1
+Copyright American Concrete Institute Provided by IHS under license with ACI Licensee=AECOM EW & Canada/5906698006, User=Hummel, George No reproduction or networking permitted without license from IHS Not for Resale, 02/22/2016 09:04:05 MST --`,,,,```,,,,,`,`,,,`,,`,``,`,-`-`,,`,,`,`,,`---
+1.3—Purpose
+1.3.1 The purpose of this Code is to provide for public 
+health and safety by establishing minimum requirements for 
+strength, stability, serviceability, durability, and integrity of 
+concrete structures.
+1.3.2 This Code does not address all design considerations.
+1.3.3 Construction means and methods are not addressed 
+in this Code.
+1.4—Applicability
+1.4.1 This Code shall apply to concrete structures designed 
+and constructed under the requirements of the general 
+building code.
+1.4.2 Applicable provisions of this Code shall be permitted 
+to be used for structures not governed by the general building 
+code.
+1.4.3 The design of thin shells and folded plate concrete 
+structures shall be in accordance with ACI 318.2, “Building 
+Code Requirements for Concrete Thin Shells.”
+1.4.4 This Code shall apply to the design of slabs cast on 
+stay-in-place, noncomposite steel decks.
+1.4.5 For one- and two-family dwellings, multiple singlefamily dwellings, townhouses, and accessory structures to 
+R1.3—Purpose
+R1.3.1 This Code provides a means of establishing 
+minimum requirements for the design and construction of 
+structural concrete, as well as for acceptance of design and 
+construction of concrete structures by the building officials 
+or their designated representatives.
+This Code does not provide a comprehensive statement of 
+all duties of all parties to a contract or all requirements of a 
+contract for a project constructed under this Code.
+R1.3.2 The minimum requirements in this Code do not 
+replace sound professional judgment or the licensed design 
+professional’s knowledge of the specific factors surrounding 
+a project, its design, the project site, and other specific or 
+unusual circumstances to the project.
+R1.4—Applicability
+R1.4.2 Structures such as arches, bins and silos, blastresistant structures, chimneys, underground utility structures, gravity walls, and shielding walls involve design and 
+construction requirements that are not specifically addressed 
+by this Code. Many Code provisions, however, such as 
+concrete quality and design principles, are applicable for 
+these structures. Recommendations for design and construction of some of these structures are given in the following:
+• “Code Requirements for Reinforced Concrete Chimneys and Commentary” (ACI 307-08)
+• “Standard Practice for Design and Construction of 
+Concrete Silos and Stacking Tubes for Storing Granular 
+Materials” (ACI 313-97)
+• “Code Requirements for Nuclear Safety-Related 
+Concrete Structures and Commentary” (ACI 349)
+• “Code for Concrete Containments” (ACI 359)
+R1.4.4 In its most basic application, the noncomposite 
+steel deck serves as a form, and the concrete slab is designed 
+to resist all loads, while in other applications the concrete 
+slab may be designed to resist only the superimposed loads. 
+The design of a steel deck in a load-resisting application is 
+given in “Standard for Non-Composite Steel Floor Deck” 
+(SDI NC). The SDI standard refers to this Code for the 
+design and construction of the structural concrete slab.
+R1.4.5 ACI 332 addresses only the design and construction of cast-in-place footings, foundation walls supported on 
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+10 BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE (ACI 318-14) AND COMMENTARY (ACI 318R-14)
+CODE COMMENTARY
+Copyright American Concrete Institute Provided by IHS under license with ACI Licensee=AECOM EW & Canada/5906698006, User=Hummel, George No reproduction or networking permitted without license from IHS Not for Resale, 02/22/2016 09:04:05 MST --`,,,,```,,,,,`,`,,,`,,`,``,`,-`-`,,`,,`,`,,`---
+these types of dwellings, the design and construction of castin-place footings, foundation walls, and slabs-on-ground in 
+accordance with ACI 332 shall be permitted.
+1.4.6 This Code does not apply to the design and installation of concrete piles, drilled piers, and caissons embedded 
+in ground, except as provided in (a) or (b):
+(a) For portions in air or water, or in soil incapable of 
+providing adequate lateral restraint to prevent buckling 
+throughout their length
+(b) For structures assigned to Seismic Design Categories 
+D, E, and F
+1.4.7 This Code does not apply to design and construction 
+of slabs-on-ground, unless the slab transmits vertical loads 
+or lateral forces from other portions of the structure to the 
+soil.
+1.4.8 This Code does not apply to the design and construction of tanks and reservoirs.
+1.4.9 This Code does not apply to composite design slabs 
+cast on stay-in-place composite steel deck. Concrete used 
+in the construction of such slabs shall be governed by this 
+Code, where applicable. Portions of such slabs designed as 
+reinforced concrete are governed by this Code.
+1.5—Interpretation
+1.5.1 The principles of interpretation in this section shall 
+apply to this Code as a whole unless otherwise stated.
+continuous footings, and slabs-on-ground for limited residential construction applications. Multiple single-family 
+dwellings include structures such as townhomes.
+R1.4.6 The design and installation of concrete piles fully 
+embedded in the ground is regulated by the general building 
+code. Recommendations for concrete piles are given in ACI 
+543R. Recommendations for drilled piers are given in ACI 
+336.3R. Recommendations for precast prestressed concrete 
+piles are given in “Recommended Practice for Design, 
+Manufacture, and Installation of Prestressed Concrete 
+Piling” (PCI 1993).
+Refer to 18.13.4 for supplemental requirements for 
+concrete piles, drilled piers, and caissons in structures 
+assigned to Seismic Design Categories D, E, and F.
+R1.4.7 Detailed recommendations for design and 
+construction of slabs-on-ground and floors that do not 
+transmit vertical loads or lateral forces from other portions 
+of the structure to the soil, and residential post-tensioned 
+slabs-on-ground, are given in the following publications:
+• ACI 360R presents information on the design of slabson-ground, primarily industrial floors and the slabs 
+adjacent to them. The report addresses the planning, 
+design, and detailing of the slabs. Background information on the design theories is followed by discussion of 
+the soil support system, loadings, and types of slabs. 
+Design methods are given for structural plain concrete, 
+reinforced concrete, shrinkage-compensating concrete, 
+and post-tensioned concrete slabs.
+• The Post-Tensioning Institute (DC 10.5-12) provides 
+standard requirements for post-tensioned slab-onground foundations, soil investigation, design, and analysis of post-tensioned residential and light commercial 
+slabs on expansive soils.
+R1.4.8 Requirements and recommendations for the design 
+and construction of tanks and reservoirs are given in ACI 
+350, ACI 334.1R, and ACI 372R.
+R1.4.9 In this type of construction, the steel deck serves 
+as the positive moment reinforcement. The design and 
+construction of concrete-steel deck slabs is described in 
+“Standard for Composite Steel Floor Deck-Slabs” (SDI C). 
+The standard refers to the appropriate portions of this Code 
+for the design and construction of the concrete portion of 
+the composite assembly. SDI C also provides guidance for 
+design of composite-concrete-steel deck slabs. The design 
+of negative moment reinforcement to create continuity at 
+supports is a common example where a portion of the slab is 
+designed in conformance with this Code.
+R1.5—Interpretation
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CHAPTER 1—GENERAL 11
+CODE COMMENTARY
+1
+Copyright American Concrete Institute Provided by IHS under license with ACI Licensee=AECOM EW & Canada/5906698006, User=Hummel, George No reproduction or networking permitted without license from IHS Not for Resale, 02/22/2016 09:04:05 MST --`,,,,```,,,,,`,`,,,`,,`,``,`,-`-`,,`,,`,`,,`---
+1.5.2 This Code consists of chapters and appendixes, 
+including text, headings, tables, figures, footnotes to tables 
+and figures, and referenced standards.
+1.5.3 The Commentary consists of a preface, introduction, 
+commentary text, tables, figures, and cited publications. The 
+Commentary is intended to provide contextual information, but is not part of this Code, does not provide binding 
+requirements, and shall not be used to create a conflict with 
+or ambiguity in this Code.
+1.5.4 This Code shall be interpreted in a manner that 
+avoids conflict between or among its provisions. Specific 
+provisions shall govern over general provisions.
+1.5.5 This Code shall be interpreted and applied in accordance with the plain meaning of the words and terms used. 
+Specific definitions of words and terms in this Code shall be 
+used where provided and applicable, regardless of whether 
+other materials, standards, or resources outside of this Code 
+provide a different definition.
+1.5.6 The following words and terms in this Code shall be 
+interpreted in accordance with (a) through (e):
+(a) The word “shall” is always mandatory.
+(b) Provisions of this Code are mandatory even if the word 
+“shall” is not used.
+(c) Words used in the present tense shall include the future.
+(d) The word “and” indicates that all of the connected 
+items, conditions, requirements, or events shall apply.
+(e) The word “or” indicates that the connected items, 
+conditions, requirements, or events are alternatives, at 
+least one of which shall be satisfied.
+1.5.7 In any case in which one or more provisions of this 
+Code are declared by a court or tribunal to be invalid, that 
+ruling shall not affect the validity of the remaining provisions of this Code, which are severable. The ruling of a court 
+or tribunal shall be effective only in that court’s jurisdiction, 
+and shall not affect the content or interpretation of this Code 
+in other jurisdictions.
+1.5.8 If conflicts occur between provisions of this Code 
+and those of standards and documents referenced in Chapter 
+3, this Code shall apply.
+1.6—Building official
+1.6.1 All references in this Code to the building official 
+shall be understood to mean persons who administer and 
+enforce this Code.
+1.6.2 Actions and decisions by the building official affect 
+only the specific jurisdiction and do not change this Code.
+R1.5.4 General provisions are broad statements, such as 
+a building needs to be serviceable. Specific provisions, such 
+as explicit reinforcement distribution requirements for crack 
+control, govern over the general provisions.
+R1.5.5 ACI Concrete Terminology (2013) is the primary 
+resource to help determine the meaning of words or terms 
+that are not defined in the Code. Dictionaries and other reference materials commonly used by licensed design professionals may be used as secondary resources.
+R.1.5.7 This Code addresses numerous requirements 
+that can be implemented fully without modification if other 
+requirements in this Code are determined to be invalid. This 
+severability requirement is intended to preserve this Code and 
+allow it to be implemented to the extent possible following 
+legal decisions affecting one or more of its provisions.
+R1.6—Building official
+R1.6.1 Building official is defined in 2.3.
+R1.6.2 Only the American Concrete Institute has the 
+authority to alter or amend this Code.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+12 BUILDING CODE REQUIREMENTS FOR STRUCTURAL CONCRETE (ACI 318-14) AND COMMENTARY (ACI 318R-14)
+CODE COMMENTARY
+Copyright American Concrete Institute Provided by IHS under license with ACI Licensee=AECOM EW & Canada/5906698006, User=Hummel, George No reproduction or networking permitted without license from IHS Not for Resale, 02/22/2016 09:04:05 MST --`,,,,```,,,,,`,`,,,`,,`,``,`,-`-`,,`,,`,`,,`---
+1.6.3 The building official shall have the right to order 
+testing of any materials used in concrete construction to 
+determine if materials are of the quality specified.
+1.7—Licensed design professional
+1.7.1 All references in this Code to the licensed design 
+professional shall be understood to mean the person who is 
+licensed and responsible for, and in charge of, the structural 
+design or inspection.
+1.8—Construction documents and design records
+1.8.1 The licensed design professional shall provide in the 
+construction documents the information required in Chapter 
+26 and that required by the jurisdiction.
+1.8.2 Calculations pertinent to design shall be filed with 
+the construction documents if required by the building official. Analyses and designs using computer programs shall 
+be permitted provided design assumptions, user input, and 
+computer-generated output are submitted. Model analysis 
+shall be permitted to supplement calculations.
+1.9—Testing and inspection 
+1.9.1 Concrete materials shall be tested in accordance with 
+the requirements of Chapter 26.
+1.9.2 Concrete construction shall be inspected in accordance with the general building code and in accordance with 
+Chapters 17 and 26.
+1.9.3 Inspection records shall include information required 
+in Chapters 17 and 26.
+1.10—Approval of special systems of design, 
+construction, or alternative construction materials
+1.10.1 Sponsors of any system of design, construction, or 
+alternative construction materials within the scope of this 
+Code, the adequacy of which has been shown by successful 
+use or by analysis or test, but which does not conform to or is 
+not covered by this Code, shall have the right to present the 
+data on which their design is based to the building official 
+R1.7—Licensed design professional
+R1.7.1 Licensed design professional is defined in 2.3.
+R1.8—Construction documents and design records
+R1.8.1 The provisions of Chapter 26 for preparing project 
+drawings and specifications are, in general, consistent with 
+those of most general building codes. Additional information may be required by the building official.
+R1.8.2 Documented computer output is acceptable instead 
+of manual calculations. The extent of input and output 
+information required will vary according to the specific 
+requirements of individual building officials. However, if a 
+computer program has been used, only skeleton data should 
+normally be required. This should consist of sufficient input 
+and output data and other information to allow the building 
+official to perform a detailed review and make comparisons using another program or manual calculations. Input 
+data should be identified as to member designation, applied 
+loads, and span lengths. The related output data should 
+include member designation and the shears, moments, and 
+reactions at key points in the span. For column design, it 
+is desirable to include moment magnification factors in the 
+output where applicable.
+The Code permits model analysis to be used to supplement structural analysis and design calculations. Documentation of the model analysis should be provided with the 
+related calculations. Model analysis should be performed by 
+an individual having experience in this technique.
+R1.10—Approval of special systems of design, 
+construction, or alternative construction materials
+R1.10.1 New methods of design, new materials, and new 
+uses of materials should undergo a period of development 
+before being covered in a code. Hence, good systems or 
+components might be excluded from use by implication if 
+means were not available to obtain acceptance.
+American Concrete Institute – Copyrighted © Material – www.concrete.org
+CHAPTER 1—GENERAL 13
+CODE COMMENTARY
+1
+Copyright American Concrete Institute Provided by IHS under license with ACI Licensee=AECOM EW & Canada/5906698006, User=Hummel, George No reproduction or networking permitted without license from IHS Not for Resale, 02/22/2016 09:04:05 MST --`,,,,```,,,,,`,`,,,`,,`,``,`,-`-`,,`,,`,`,,`---
+or to a board of examiners appointed by the building official. This board shall be composed of competent engineers 
+and shall have authority to investigate the data so submitted, 
+require tests, and formulate rules governing design and 
+construction of such systems to meet the intent of this Code. 
+These rules, when approved by the building official and 
+promulgated, shall be of the same force and effect as the 
+provisions of this Code.
+For special systems considered under this section, specific 
+tests, load factors, deflection limits, and other pertinent 
+requirements should be set by the board of examiners, and 
+should be consistent with the intent of the Code.
+The provisions of this section do not apply to model tests 
+used to supplement calculations under 1.8.2 or to strength 
+evaluation of existing structures under Chapter 27.
